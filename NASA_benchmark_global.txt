@@ -1,0 +1,744 @@
+------------------------------nasa_multisite_col-TMin_seriesize-1_model-Conv_model_midModel for column TMin with serie of size 1
+RMSE: 1.0017285
+MAE: 0.75977933
+MSE: 1.0034602
+MAPE: 0.034323074
+R²: 0.6123839748164632
+------------------------------nasa_multisite_col-TMin_seriesize-1_model-Conv_model2_midModel for column TMin with serie of size 1
+RMSE: 1.0140414
+MAE: 0.7663761
+MSE: 1.0282799
+MAPE: 0.03499214
+R²: 0.6027966467975325
+------------------------------nasa_multisite_col-TMin_seriesize-1_model-Conv_model3_midModel for column TMin with serie of size 1
+RMSE: 1.0250477
+MAE: 0.7670647
+MSE: 1.0507227
+MAPE: 0.035166617
+R²: 0.5941273898006563
+------------------------------nasa_multisite_col-TMin_seriesize-2_model-Conv_model_midModel for column TMin with serie of size 2
+RMSE: 0.9335116
+MAE: 0.7321575
+MSE: 0.8714439
+MAPE: 0.033127658
+R²: 0.6570309458836587
+------------------------------nasa_multisite_col-TMin_seriesize-2_model-Conv_model2_midModel for column TMin with serie of size 2
+RMSE: 0.97028506
+MAE: 0.7522523
+MSE: 0.9414531
+MAPE: 0.034303498
+R²: 0.6294778809689479
+------------------------------nasa_multisite_col-TMin_seriesize-2_model-Conv_model3_midModel for column TMin with serie of size 2
+RMSE: 0.98586047
+MAE: 0.76168215
+MSE: 0.97192085
+MAPE: 0.034971543
+R²: 0.6174868625438741
+------------------------------nasa_multisite_col-TMin_seriesize-3_model-Conv_model_midModel for column TMin with serie of size 3
+RMSE: 0.9536128
+MAE: 0.7348062
+MSE: 0.9093774
+MAPE: 0.033473276
+R²: 0.6306917121232299
+------------------------------nasa_multisite_col-TMin_seriesize-3_model-Conv_model2_midModel for column TMin with serie of size 3
+RMSE: 0.9549446
+MAE: 0.7442672
+MSE: 0.91191924
+MAPE: 0.034025397
+R²: 0.6296594700051692
+------------------------------nasa_multisite_col-TMin_seriesize-3_model-Conv_model3_midModel for column TMin with serie of size 3
+RMSE: 0.98074293
+MAE: 0.76097536
+MSE: 0.9618567
+MAPE: 0.034961954
+R²: 0.6093793144500247
+------------------------------nasa_multisite_col-TMin_seriesize-4_model-Conv_model_midModel for column TMin with serie of size 4
+RMSE: 0.9181261
+MAE: 0.73273313
+MSE: 0.8429555
+MAPE: 0.033115257
+R²: 0.6592184548488285
+------------------------------nasa_multisite_col-TMin_seriesize-4_model-Conv_model2_midModel for column TMin with serie of size 4
+RMSE: 0.91293335
+MAE: 0.7229726
+MSE: 0.83344734
+MAPE: 0.03291101
+R²: 0.6630623181711363
+------------------------------nasa_multisite_col-TMin_seriesize-4_model-Conv_model3_midModel for column TMin with serie of size 4
+RMSE: 0.9338695
+MAE: 0.7324544
+MSE: 0.87211215
+MAPE: 0.033425488
+R²: 0.6474312911214114
+------------------------------nasa_multisite_col-TMin_seriesize-5_model-Conv_model_midModel for column TMin with serie of size 5
+RMSE: 0.9314437
+MAE: 0.7374795
+MSE: 0.8675873
+MAPE: 0.03346613
+R²: 0.6307459461474101
+------------------------------nasa_multisite_col-TMin_seriesize-5_model-Conv_model2_midModel for column TMin with serie of size 5
+RMSE: 0.91291183
+MAE: 0.7241485
+MSE: 0.83340806
+MAPE: 0.032906797
+R²: 0.6452930174245607
+------------------------------nasa_multisite_col-TMin_seriesize-5_model-Conv_model3_midModel for column TMin with serie of size 5
+RMSE: 0.92872393
+MAE: 0.7308636
+MSE: 0.8625281
+MAPE: 0.033248775
+R²: 0.6328992324572034
+------------------------------nasa_multisite_col-TMax_seriesize-7_model-Conv_model_midModel for column TMax with serie of size 7
+RMSE: 1.5805919
+MAE: 1.1766338
+MSE: 2.4982708
+MAPE: 0.03883204
+R²: 0.6479088454615203
+------------------------------nasa_multisite_col-TMax_seriesize-7_model-Conv_model2_midModel for column TMax with serie of size 7
+RMSE: 1.5359414
+MAE: 1.1500107
+MSE: 2.3591158
+MAPE: 0.037905596
+R²: 0.6675205236694854
+------------------------------nasa_multisite_col-TMax_seriesize-7_model-Conv_model3_midModel for column TMax with serie of size 7
+RMSE: 1.5405538
+MAE: 1.1614888
+MSE: 2.373306
+MAPE: 0.038132716
+R²: 0.6655206120265269
+------------------------------nasa_multisite_col-TMax_seriesize-9_model-Conv_model_midModel for column TMax with serie of size 9
+RMSE: 1.5999888
+MAE: 1.2015159
+MSE: 2.5599642
+MAPE: 0.039600853
+R²: 0.6336353835709385
+------------------------------nasa_multisite_col-TMax_seriesize-9_model-Conv_model2_midModel for column TMax with serie of size 9
+RMSE: 1.541366
+MAE: 1.1578538
+MSE: 2.375809
+MAPE: 0.03821451
+R²: 0.6599904466410769
+------------------------------nasa_multisite_col-TMax_seriesize-9_model-Conv_model3_midModel for column TMax with serie of size 9
+RMSE: 1.5368311
+MAE: 1.1524253
+MSE: 2.3618498
+MAPE: 0.038030077
+R²: 0.6619881494887769
+------------------------------nasa_multisite_col-TMax_seriesize-11_model-Conv_model_midModel for column TMax with serie of size 11
+RMSE: 1.6712372
+MAE: 1.28526
+MSE: 2.7930338
+MAPE: 0.042312346
+R²: 0.6094693586817284
+------------------------------nasa_multisite_col-TMax_seriesize-11_model-Conv_model2_midModel for column TMax with serie of size 11
+RMSE: 1.505148
+MAE: 1.1471676
+MSE: 2.2654707
+MAPE: 0.037737302
+R²: 0.6832348492468756
+------------------------------nasa_multisite_col-TMax_seriesize-11_model-Conv_model3_midModel for column TMax with serie of size 11
+RMSE: 1.5050337
+MAE: 1.1424574
+MSE: 2.2651267
+MAPE: 0.037699513
+R²: 0.6832829721321068
+------------------------------nasa_multisite_col-TMax_seriesize-13_model-Conv_model_midModel for column TMax with serie of size 13
+RMSE: 1.5468959
+MAE: 1.1821615
+MSE: 2.3928869
+MAPE: 0.039027933
+R²: 0.6698843411654201
+------------------------------nasa_multisite_col-TMax_seriesize-13_model-Conv_model2_midModel for column TMax with serie of size 13
+RMSE: 1.541299
+MAE: 1.1854771
+MSE: 2.3756027
+MAPE: 0.039159354
+R²: 0.6722688147138035
+------------------------------nasa_multisite_col-TMax_seriesize-13_model-Conv_model3_midModel for column TMax with serie of size 13
+RMSE: 1.5268357
+MAE: 1.1640922
+MSE: 2.3312273
+MAPE: 0.038584568
+R²: 0.6783907206365742
+------------------------------nasa_multisite_col-TAverage_seriesize-9_model-Conv_model_midModel for column TAverage with serie of size 9
+RMSE: 0.7227054
+MAE: 0.56197864
+MSE: 0.5223031
+MAPE: 0.021706214
+R²: 0.6971847536640594
+------------------------------nasa_multisite_col-TAverage_seriesize-9_model-Conv_model2_midModel for column TAverage with serie of size 9
+RMSE: 0.7313351
+MAE: 0.5745094
+MSE: 0.5348511
+MAPE: 0.022175035
+R²: 0.6899098280336973
+------------------------------nasa_multisite_col-TAverage_seriesize-9_model-Conv_model3_midModel for column TAverage with serie of size 9
+RMSE: 0.7397291
+MAE: 0.58033174
+MSE: 0.54719913
+MAPE: 0.022450548
+R²: 0.6827508183315529
+------------------------------nasa_multisite_col-TAverage_seriesize-13_model-Conv_model_midModel for column TAverage with serie of size 13
+RMSE: 0.73926055
+MAE: 0.5855288
+MSE: 0.54650617
+MAPE: 0.022683375
+R²: 0.6798729044508587
+------------------------------nasa_multisite_col-TAverage_seriesize-13_model-Conv_model2_midModel for column TAverage with serie of size 13
+RMSE: 0.7498996
+MAE: 0.58800817
+MSE: 0.56234944
+MAPE: 0.022777244
+R²: 0.6705924048737679
+------------------------------nasa_multisite_col-TAverage_seriesize-13_model-Conv_model3_midModel for column TAverage with serie of size 13
+RMSE: 0.7576376
+MAE: 0.5863591
+MSE: 0.5740147
+MAPE: 0.02285998
+R²: 0.6637592390635305
+------------------------------nasa_multisite_col-TAverage_seriesize-15_model-Conv_model_midModel for column TAverage with serie of size 15
+RMSE: 0.7342147
+MAE: 0.58871776
+MSE: 0.53907126
+MAPE: 0.022827808
+R²: 0.677436699467036
+------------------------------nasa_multisite_col-TAverage_seriesize-15_model-Conv_model2_midModel for column TAverage with serie of size 15
+RMSE: 0.76747614
+MAE: 0.6098576
+MSE: 0.58901966
+MAPE: 0.023621721
+R²: 0.6475491606251335
+------------------------------nasa_multisite_col-TAverage_seriesize-15_model-Conv_model3_midModel for column TAverage with serie of size 15
+RMSE: 0.7233063
+MAE: 0.572214
+MSE: 0.52317196
+MAPE: 0.02221024
+R²: 0.686950368975993
+------------------------------nasa_multisite_col-TAverage_seriesize-21_model-Conv_model_midModel for column TAverage with serie of size 21
+RMSE: 0.8366497
+MAE: 0.6506233
+MSE: 0.69998276
+MAPE: 0.025491089
+R²: 0.5750659591318084
+------------------------------nasa_multisite_col-TAverage_seriesize-21_model-Conv_model2_midModel for column TAverage with serie of size 21
+RMSE: 0.7564209
+MAE: 0.6034682
+MSE: 0.5721726
+MAPE: 0.023442635
+R²: 0.6526548334291439
+------------------------------nasa_multisite_col-TAverage_seriesize-21_model-Conv_model3_midModel for column TAverage with serie of size 21
+RMSE: 0.7402197
+MAE: 0.5897844
+MSE: 0.54792523
+MAPE: 0.022900466
+R²: 0.6673745457919922
+------------------------------nasa_multisite_col-HRMin_seriesize-7_model-Conv_model_midModel for column HRMin with serie of size 7
+RMSE: 8.28093
+MAE: 6.1859293
+MSE: 68.57379
+MAPE: 0.093532555
+R²: 0.585966184380476
+------------------------------nasa_multisite_col-HRMin_seriesize-7_model-Conv_model2_midModel for column HRMin with serie of size 7
+RMSE: 8.236595
+MAE: 6.1684027
+MSE: 67.8415
+MAPE: 0.094245456
+R²: 0.5903875537647258
+------------------------------nasa_multisite_col-HRMin_seriesize-7_model-Conv_model3_midModel for column HRMin with serie of size 7
+RMSE: 8.246904
+MAE: 6.2251005
+MSE: 68.01143
+MAPE: 0.09590676
+R²: 0.5893615646075175
+------------------------------nasa_multisite_col-HRMin_seriesize-9_model-Conv_model_midModel for column HRMin with serie of size 9
+RMSE: 8.353891
+MAE: 6.271568
+MSE: 69.787506
+MAPE: 0.09742024
+R²: 0.5789292188649569
+------------------------------nasa_multisite_col-HRMin_seriesize-9_model-Conv_model2_midModel for column HRMin with serie of size 9
+RMSE: 8.279347
+MAE: 6.185238
+MSE: 68.54759
+MAPE: 0.09502258
+R²: 0.586410340093047
+------------------------------nasa_multisite_col-HRMin_seriesize-9_model-Conv_model3_midModel for column HRMin with serie of size 9
+RMSE: 8.289504
+MAE: 6.1733327
+MSE: 68.71588
+MAPE: 0.093601
+R²: 0.5853949488219855
+------------------------------nasa_multisite_col-HRMin_seriesize-11_model-Conv_model_midModel for column HRMin with serie of size 11
+RMSE: 8.267303
+MAE: 6.2439523
+MSE: 68.34831
+MAPE: 0.094361424
+R²: 0.5918870645068823
+------------------------------nasa_multisite_col-HRMin_seriesize-11_model-Conv_model2_midModel for column HRMin with serie of size 11
+RMSE: 8.580248
+MAE: 6.413785
+MSE: 73.62066
+MAPE: 0.09796406
+R²: 0.5604055009130007
+------------------------------nasa_multisite_col-HRMin_seriesize-11_model-Conv_model3_midModel for column HRMin with serie of size 11
+RMSE: 8.414725
+MAE: 6.4163504
+MSE: 70.80761
+MAPE: 0.09756909
+R²: 0.5772024151896755
+------------------------------nasa_multisite_col-HRMin_seriesize-13_model-Conv_model_midModel for column HRMin with serie of size 13
+RMSE: 8.684467
+MAE: 6.5868783
+MSE: 75.41997
+MAPE: 0.0989256
+R²: 0.55661616574159
+------------------------------nasa_multisite_col-HRMin_seriesize-13_model-Conv_model2_midModel for column HRMin with serie of size 13
+RMSE: 8.6218405
+MAE: 6.4613075
+MSE: 74.33613
+MAPE: 0.09786566
+R²: 0.5629878935659501
+------------------------------nasa_multisite_col-HRMin_seriesize-13_model-Conv_model3_midModel for column HRMin with serie of size 13
+RMSE: 8.584865
+MAE: 6.328167
+MSE: 73.699905
+MAPE: 0.096805334
+R²: 0.5667281680273233
+------------------------------nasa_multisite_col-HRMax_seriesize-1_model-Conv_model_midModel for column HRMax with serie of size 1
+RMSE: 5.3412924
+MAE: 2.2265606
+MSE: 28.529404
+MAPE: 0.027451849
+R²: -0.1433581871030427
+------------------------------nasa_multisite_col-HRMax_seriesize-1_model-Conv_model2_midModel for column HRMax with serie of size 1
+RMSE: 4.993557
+MAE: 1.9297767
+MSE: 24.935612
+MAPE: 0.02390408
+R²: 0.0006683801099852671
+------------------------------nasa_multisite_col-HRMax_seriesize-1_model-Conv_model3_midModel for column HRMax with serie of size 1
+RMSE: 4.988177
+MAE: 1.9042412
+MSE: 24.881908
+MAPE: 0.02366294
+R²: 0.002820604647344682
+------------------------------nasa_multisite_col-HRMax_seriesize-2_model-Conv_model_midModel for column HRMax with serie of size 2
+RMSE: 5.0153284
+MAE: 1.9129698
+MSE: 25.15352
+MAPE: 0.02378627
+R²: -0.0006091278226159069
+------------------------------nasa_multisite_col-HRMax_seriesize-2_model-Conv_model2_midModel for column HRMax with serie of size 2
+RMSE: 5.0615253
+MAE: 1.838068
+MSE: 25.619038
+MAPE: 0.023100741
+R²: -0.019127415485071575
+------------------------------nasa_multisite_col-HRMax_seriesize-2_model-Conv_model3_midModel for column HRMax with serie of size 2
+RMSE: 5.0252004
+MAE: 1.884814
+MSE: 25.252638
+MAPE: 0.023534313
+R²: -0.0045519739877979415
+------------------------------nasa_multisite_col-HRMax_seriesize-3_model-Conv_model_midModel for column HRMax with serie of size 3
+RMSE: 5.0516167
+MAE: 1.9187111
+MSE: 25.518831
+MAPE: 0.023901459
+R²: -0.006241629662218973
+------------------------------nasa_multisite_col-HRMax_seriesize-3_model-Conv_model2_midModel for column HRMax with serie of size 3
+RMSE: 5.025187
+MAE: 1.9625739
+MSE: 25.252504
+MAPE: 0.0243094
+R²: 0.004260026462139632
+------------------------------nasa_multisite_col-HRMax_seriesize-3_model-Conv_model3_midModel for column HRMax with serie of size 3
+RMSE: 5.0563183
+MAE: 1.9795351
+MSE: 25.566355
+MAPE: 0.02450285
+R²: -0.00811552603457244
+------------------------------nasa_multisite_col-HRMax_seriesize-4_model-Conv_model_midModel for column HRMax with serie of size 4
+RMSE: 5.0617394
+MAE: 2.1164105
+MSE: 25.621204
+MAPE: 0.025920741
+R²: -0.0007316016839542527
+------------------------------nasa_multisite_col-HRMax_seriesize-4_model-Conv_model2_midModel for column HRMax with serie of size 4
+RMSE: 5.0629997
+MAE: 1.9573452
+MSE: 25.633966
+MAPE: 0.024299206
+R²: -0.001230034053255391
+------------------------------nasa_multisite_col-HRMax_seriesize-4_model-Conv_model3_midModel for column HRMax with serie of size 4
+RMSE: 5.129288
+MAE: 2.025019
+MSE: 26.309597
+MAPE: 0.025076726
+R²: -0.027619198800118205
+------------------------------nasa_multisite_col-HRMax_seriesize-5_model-Conv_model_midModel for column HRMax with serie of size 5
+RMSE: 5.302142
+MAE: 1.9110119
+MSE: 28.112713
+MAPE: 0.024236016
+R²: -0.09156562441469607
+------------------------------nasa_multisite_col-HRMax_seriesize-5_model-Conv_model2_midModel for column HRMax with serie of size 5
+RMSE: 5.102209
+MAE: 2.1615517
+MSE: 26.03254
+MAPE: 0.02639612
+R²: -0.010796127506907727
+------------------------------nasa_multisite_col-HRMax_seriesize-5_model-Conv_model3_midModel for column HRMax with serie of size 5
+RMSE: 5.1205792
+MAE: 2.1330986
+MSE: 26.220333
+MAPE: 0.026149072
+R²: -0.01808778599932226
+------------------------------nasa_multisite_col-HRAverage_seriesize-1_model-Conv_model_midModel for column HRAverage with serie of size 1
+RMSE: 5.8492517
+MAE: 3.1092181
+MSE: 34.213745
+MAPE: 0.039723214
+R²: 0.1369034523247319
+------------------------------nasa_multisite_col-HRAverage_seriesize-1_model-Conv_model2_midModel for column HRAverage with serie of size 1
+RMSE: 5.847787
+MAE: 3.2225277
+MSE: 34.196613
+MAPE: 0.041167613
+R²: 0.13733562428628765
+------------------------------nasa_multisite_col-HRAverage_seriesize-1_model-Conv_model3_midModel for column HRAverage with serie of size 1
+RMSE: 5.8695526
+MAE: 3.4995418
+MSE: 34.45165
+MAPE: 0.0441996
+R²: 0.13090185532517007
+------------------------------nasa_multisite_col-HRAverage_seriesize-3_model-Conv_model_midModel for column HRAverage with serie of size 3
+RMSE: 5.8001237
+MAE: 3.0560699
+MSE: 33.641434
+MAPE: 0.038849287
+R²: 0.16440224833377026
+------------------------------nasa_multisite_col-HRAverage_seriesize-3_model-Conv_model2_midModel for column HRAverage with serie of size 3
+RMSE: 5.769405
+MAE: 3.372084
+MSE: 33.286034
+MAPE: 0.042506784
+R²: 0.17322969401815502
+------------------------------nasa_multisite_col-HRAverage_seriesize-3_model-Conv_model3_midModel for column HRAverage with serie of size 3
+RMSE: 5.8281713
+MAE: 3.5099413
+MSE: 33.96758
+MAPE: 0.044133797
+R²: 0.15630131528973146
+------------------------------nasa_multisite_col-HRAverage_seriesize-5_model-Conv_model_midModel for column HRAverage with serie of size 5
+RMSE: 5.7947407
+MAE: 3.2574482
+MSE: 33.579018
+MAPE: 0.04110398
+R²: 0.17497349890476876
+------------------------------nasa_multisite_col-HRAverage_seriesize-5_model-Conv_model2_midModel for column HRAverage with serie of size 5
+RMSE: 5.9330153
+MAE: 3.4565206
+MSE: 35.20067
+MAPE: 0.043835912
+R²: 0.13512997825258588
+------------------------------nasa_multisite_col-HRAverage_seriesize-5_model-Conv_model3_midModel for column HRAverage with serie of size 5
+RMSE: 5.8751936
+MAE: 3.4290998
+MSE: 34.5179
+MAPE: 0.043370664
+R²: 0.15190536113319641
+------------------------------nasa_multisite_col-HRAverage_seriesize-7_model-Conv_model_midModel for column HRAverage with serie of size 7
+RMSE: 5.7661495
+MAE: 3.1291726
+MSE: 33.24848
+MAPE: 0.039642654
+R²: 0.1986144785774615
+------------------------------nasa_multisite_col-HRAverage_seriesize-7_model-Conv_model2_midModel for column HRAverage with serie of size 7
+RMSE: 5.9183607
+MAE: 3.4622235
+MSE: 35.026993
+MAPE: 0.04361232
+R²: 0.15574710767634137
+------------------------------nasa_multisite_col-HRAverage_seriesize-7_model-Conv_model3_midModel for column HRAverage with serie of size 7
+RMSE: 5.9118986
+MAE: 3.4257812
+MSE: 34.950546
+MAPE: 0.04335998
+R²: 0.1575896111932722
+------------------------------nasa_multisite_col-WindSpeed_seriesize-9_model-Conv_model_midModel for column WindSpeed with serie of size 9
+RMSE: 0.1688956
+MAE: 0.13776603
+MSE: 0.028525723
+MAPE: 191243000000000.0
+R²: -0.15023398929769316
+------------------------------nasa_multisite_col-WindSpeed_seriesize-9_model-Conv_model2_midModel for column WindSpeed with serie of size 9
+RMSE: 0.16693631
+MAE: 0.14209282
+MSE: 0.027867733
+MAPE: 223468640000000.0
+R²: -0.1237020760109171
+------------------------------nasa_multisite_col-WindSpeed_seriesize-9_model-Conv_model3_midModel for column WindSpeed with serie of size 9
+RMSE: 0.15737867
+MAE: 0.13024028
+MSE: 0.024768045
+MAPE: 188440950000000.0
+R²: 0.001285652610114263
+------------------------------nasa_multisite_col-WindSpeed_seriesize-13_model-Conv_model_midModel for column WindSpeed with serie of size 13
+RMSE: 0.2112203
+MAE: 0.18075025
+MSE: 0.04461401
+MAPE: 364896430000000.0
+R²: -0.7773460816025366
+------------------------------nasa_multisite_col-WindSpeed_seriesize-13_model-Conv_model2_midModel for column WindSpeed with serie of size 13
+RMSE: 0.1595777
+MAE: 0.13036992
+MSE: 0.025465043
+MAPE: 186382020000000.0
+R²: -0.014483944070394772
+------------------------------nasa_multisite_col-WindSpeed_seriesize-13_model-Conv_model3_midModel for column WindSpeed with serie of size 13
+RMSE: 0.15950249
+MAE: 0.13281436
+MSE: 0.025441043
+MAPE: 197014010000000.0
+R²: -0.013527774840240037
+------------------------------nasa_multisite_col-WindSpeed_seriesize-15_model-Conv_model_midModel for column WindSpeed with serie of size 15
+RMSE: 0.2151855
+MAE: 0.1754124
+MSE: 0.046304796
+MAPE: 324356270000000.0
+R²: -0.8986689795311187
+------------------------------nasa_multisite_col-WindSpeed_seriesize-15_model-Conv_model2_midModel for column WindSpeed with serie of size 15
+RMSE: 0.15698287
+MAE: 0.13080692
+MSE: 0.02464362
+MAPE: 203427220000000.0
+R²: -0.01048013923258817
+------------------------------nasa_multisite_col-WindSpeed_seriesize-15_model-Conv_model3_midModel for column WindSpeed with serie of size 15
+RMSE: 0.15558541
+MAE: 0.12825055
+MSE: 0.024206817
+MAPE: 194501400000000.0
+R²: 0.007430481061293848
+------------------------------nasa_multisite_col-WindSpeed_seriesize-21_model-Conv_model_midModel for column WindSpeed with serie of size 21
+RMSE: 0.17458646
+MAE: 0.14420997
+MSE: 0.030480433
+MAPE: 202530600000000.0
+R²: -0.2575024304602007
+------------------------------nasa_multisite_col-WindSpeed_seriesize-21_model-Conv_model2_midModel for column WindSpeed with serie of size 21
+RMSE: 0.15307745
+MAE: 0.1247102
+MSE: 0.023432707
+MAPE: 170396230000000.0
+R²: 0.0332589245328937
+------------------------------nasa_multisite_col-WindSpeed_seriesize-21_model-Conv_model3_midModel for column WindSpeed with serie of size 21
+RMSE: 0.15677536
+MAE: 0.13110667
+MSE: 0.024578514
+MAPE: 194897460000000.0
+R²: -0.014012518695264431
+------------------------------nasa_multisite_col-Rainfall_seriesize-5_model-Conv_model_midModel for column Rainfall with serie of size 5
+RMSE: 3.433986
+MAE: 2.646199
+MSE: 11.792259
+MAPE: 0.3868007
+R²: 0.08965302120654528
+------------------------------nasa_multisite_col-Rainfall_seriesize-5_model-Conv_model2_midModel for column Rainfall with serie of size 5
+RMSE: 3.3784835
+MAE: 2.653703
+MSE: 11.41415
+MAPE: 0.37176934
+R²: 0.11884239721703238
+------------------------------nasa_multisite_col-Rainfall_seriesize-5_model-Conv_model3_midModel for column Rainfall with serie of size 5
+RMSE: 3.222843
+MAE: 2.5015082
+MSE: 10.386716
+MAPE: 0.34787863
+R²: 0.19815907104725383
+------------------------------nasa_multisite_col-Rainfall_seriesize-7_model-Conv_model_midModel for column Rainfall with serie of size 7
+RMSE: 3.2772596
+MAE: 2.5576255
+MSE: 10.740431
+MAPE: 0.2622946
+R²: 0.15336882803672036
+------------------------------nasa_multisite_col-Rainfall_seriesize-7_model-Conv_model2_midModel for column Rainfall with serie of size 7
+RMSE: 3.2193775
+MAE: 2.498037
+MSE: 10.364391
+MAPE: 0.25501004
+R²: 0.18301071916477907
+------------------------------nasa_multisite_col-Rainfall_seriesize-7_model-Conv_model3_midModel for column Rainfall with serie of size 7
+RMSE: 3.3808203
+MAE: 2.6324387
+MSE: 11.429945
+MAPE: 0.28232196
+R²: 0.09901686885210881
+------------------------------nasa_multisite_col-Rainfall_seriesize-9_model-Conv_model_midModel for column Rainfall with serie of size 9
+RMSE: 3.376675
+MAE: 2.6461256
+MSE: 11.401934
+MAPE: 0.27817434
+R²: 0.091440831198359
+------------------------------nasa_multisite_col-Rainfall_seriesize-9_model-Conv_model2_midModel for column Rainfall with serie of size 9
+RMSE: 3.3018763
+MAE: 2.5675364
+MSE: 10.902388
+MAPE: 0.26216018
+R²: 0.13124700949339174
+------------------------------nasa_multisite_col-Rainfall_seriesize-9_model-Conv_model3_midModel for column Rainfall with serie of size 9
+RMSE: 3.2635117
+MAE: 2.5392516
+MSE: 10.650508
+MAPE: 0.26592642
+R²: 0.15131797470025443
+------------------------------nasa_multisite_col-Rainfall_seriesize-11_model-Conv_model_midModel for column Rainfall with serie of size 11
+RMSE: 3.498477
+MAE: 2.7412486
+MSE: 12.239342
+MAPE: 0.29843295
+R²: 0.03563794500260975
+------------------------------nasa_multisite_col-Rainfall_seriesize-11_model-Conv_model2_midModel for column Rainfall with serie of size 11
+RMSE: 3.2086985
+MAE: 2.5070148
+MSE: 10.295747
+MAPE: 0.24911831
+R²: 0.1887776702236026
+------------------------------nasa_multisite_col-Rainfall_seriesize-11_model-Conv_model3_midModel for column Rainfall with serie of size 11
+RMSE: 3.2600324
+MAE: 2.5445943
+MSE: 10.627811
+MAPE: 0.26101807
+R²: 0.1626136517145257
+------------------------------nasa_multisite_col-Rainfall_seriesize-13_model-Conv_model_midModel for column Rainfall with serie of size 13
+RMSE: 3.212711
+MAE: 2.492315
+MSE: 10.321513
+MAPE: 0.26027635
+R²: 0.18791473005982384
+------------------------------nasa_multisite_col-Rainfall_seriesize-13_model-Conv_model2_midModel for column Rainfall with serie of size 13
+RMSE: 3.3374357
+MAE: 2.5994737
+MSE: 11.138477
+MAPE: 0.27869582
+R²: 0.12363689082818874
+------------------------------nasa_multisite_col-Rainfall_seriesize-13_model-Conv_model3_midModel for column Rainfall with serie of size 13
+RMSE: 3.243516
+MAE: 2.5110786
+MSE: 10.520395
+MAPE: 0.25685266
+R²: 0.17226691472496813
+------------------------------nasa_multisite_col-Rg_seriesize-1_model-Conv_model_midModel for column Rg with serie of size 1
+RMSE: 14.860237
+MAE: 6.5405335
+MSE: 220.82664
+MAPE: 7755961000000000.0
+R²: 0.11335167983892147
+------------------------------nasa_multisite_col-Rg_seriesize-1_model-Conv_model2_midModel for column Rg with serie of size 1
+RMSE: 14.842363
+MAE: 6.2932796
+MSE: 220.29575
+MAPE: 6883077000000000.0
+R²: 0.11548339712303002
+------------------------------nasa_multisite_col-Rg_seriesize-1_model-Conv_model3_midModel for column Rg with serie of size 1
+RMSE: 14.8399105
+MAE: 6.519184
+MSE: 220.22293
+MAPE: 7801228300000000.0
+R²: 0.11577571644947804
+------------------------------nasa_multisite_col-Rg_seriesize-2_model-Conv_model_midModel for column Rg with serie of size 2
+RMSE: 15.074849
+MAE: 6.6033025
+MSE: 227.25108
+MAPE: 7865962600000000.0
+R²: 0.1063886017590352
+------------------------------nasa_multisite_col-Rg_seriesize-2_model-Conv_model2_midModel for column Rg with serie of size 2
+RMSE: 15.113293
+MAE: 7.3314543
+MSE: 228.41162
+MAPE: 1.0142638e+16
+R²: 0.10182501985254433
+------------------------------nasa_multisite_col-Rg_seriesize-2_model-Conv_model3_midModel for column Rg with serie of size 2
+RMSE: 14.977293
+MAE: 6.7089925
+MSE: 224.3193
+MAPE: 7940592000000000.0
+R²: 0.11791714730378933
+------------------------------nasa_multisite_col-Rg_seriesize-3_model-Conv_model_midModel for column Rg with serie of size 3
+RMSE: 15.091817
+MAE: 6.6663437
+MSE: 227.76292
+MAPE: 7722460000000000.0
+R²: 0.1148245217131264
+------------------------------nasa_multisite_col-Rg_seriesize-3_model-Conv_model2_midModel for column Rg with serie of size 3
+RMSE: 15.197826
+MAE: 7.151023
+MSE: 230.97392
+MAPE: 9466444000000000.0
+R²: 0.10234535520168975
+------------------------------nasa_multisite_col-Rg_seriesize-3_model-Conv_model3_midModel for column Rg with serie of size 3
+RMSE: 15.100327
+MAE: 6.7430844
+MSE: 228.01985
+MAPE: 8472523600000000.0
+R²: 0.11382601005040438
+------------------------------nasa_multisite_col-Rg_seriesize-4_model-Conv_model_midModel for column Rg with serie of size 4
+RMSE: 14.962125
+MAE: 6.833669
+MSE: 223.86519
+MAPE: 8263442000000000.0
+R²: 0.13016471223892367
+------------------------------nasa_multisite_col-Rg_seriesize-4_model-Conv_model2_midModel for column Rg with serie of size 4
+RMSE: 15.042421
+MAE: 6.4086113
+MSE: 226.27443
+MAPE: 6918376300000000.0
+R²: 0.12080363188185206
+------------------------------nasa_multisite_col-Rg_seriesize-4_model-Conv_model3_midModel for column Rg with serie of size 4
+RMSE: 15.048828
+MAE: 6.8719125
+MSE: 226.46724
+MAPE: 8318802400000000.0
+R²: 0.12005436580613182
+------------------------------nasa_multisite_col-Rg_seriesize-5_model-Conv_model_midModel for column Rg with serie of size 5
+RMSE: 15.309498
+MAE: 6.80934
+MSE: 234.38074
+MAPE: 8060358700000000.0
+R²: 0.11014720740000827
+------------------------------nasa_multisite_col-Rg_seriesize-5_model-Conv_model2_midModel for column Rg with serie of size 5
+RMSE: 15.258023
+MAE: 7.3911295
+MSE: 232.80727
+MAPE: 1.0134758e+16
+R²: 0.11612107628091772
+------------------------------nasa_multisite_col-Rg_seriesize-5_model-Conv_model3_midModel for column Rg with serie of size 5
+RMSE: 15.34075
+MAE: 7.1579685
+MSE: 235.3386
+MAPE: 9200825000000000.0
+R²: 0.10651066203155679
+------------------------------nasa_monosite_col-TMin_seriesize-1_model-Conv_model_midModel for column TMin with serie of size 1
+RMSE: 0.984888
+MAE: 0.7514119
+MSE: 0.97000444
+MAPE: 0.033999488
+R²: 0.6253072301588427
+------------------------------nasa_monosite_col-TMin_seriesize-2_model-Conv_model_midModel for column TMin with serie of size 2
+RMSE: 0.92577684
+MAE: 0.72972673
+MSE: 0.85706276
+MAPE: 0.033075597
+R²: 0.6626908933545692
+------------------------------nasa_monosite_col-TMin_seriesize-3_model-Conv_model_midModel for column TMin with serie of size 3
+RMSE: 0.96047246
+MAE: 0.7730474
+MSE: 0.9225074
+MAPE: 0.034608044
+R²: 0.6253594913903144
+------------------------------nasa_monosite_col-TMin_seriesize-4_model-Conv_model_midModel for column TMin with serie of size 4
+RMSE: 0.9092547
+MAE: 0.72859865
+MSE: 0.82674414
+MAPE: 0.032937497
+R²: 0.6657722504511512
